@@ -1,0 +1,8 @@
+sys date
+= CURRENT_DATE()
+
+subtract integer from date. example 365 day
+= DATE_SUB (CURRENT_DATE(), 365)
+
+get date with yyyy-mm-dd format
+= date(concat_ws('-',substr(CURRENT_DATE() ,1,4),substr(CURRENT_DATE(),6,2),substr(CURRENT_DATE(),9,2)))
