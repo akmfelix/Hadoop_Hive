@@ -18,3 +18,4 @@
 * NoSQL Databases. A class of databases that diverge from the traditional relational model. They are designed to handle large volumes of unstructured or semi-structured data and offer high scalability and flexibility.
 * Distributed Databases. Databases that are spread across multiple computers or nodes. They enable better performance and fault tolerance but also require careful management of data consistency and distribution.
 
+## 
