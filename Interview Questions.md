@@ -25,9 +25,9 @@ ETL stands for EXTRACT, TRANSFORM, LOAD and it is a fundemental process in data 
 **Load (L):** Once data is extracted and transformed, it's loaded into a data repository or data warehouse. This is typically a centralized storage system optimized for querying and analysis.
 
 
-### What is the difference between data ware house and data lake?
+# What is the difference between data ware house and data lake?
 The key difference lies in the purpose and data type each is designed to handle. Data warehouses are optimized for structured data and efficient querying, while data lakes provide flexibility for storing and processing a wide range of data types, including raw and unstructured data, at scale.
-#### Data Warehouse
+### Data Warehouse
 **Purpose:** Data warehouses are designed for storing structured and processed data that is optimized for querying and analysis. They are typically used for business intelligence, reporting, and decision-making.            
 
                   
@@ -45,7 +45,7 @@ The key difference lies in the purpose and data type each is designed to handle.
 
 **Use Cases:** Data warehouses are well-suited for structured business data, historical reporting, and structured analytics in scenarios like financial analysis, sales reporting, and performance monitoring.                        
 
-#### Data Lake:
+### Data Lake:
 **Purpose:** Data lakes are designed for storing raw, unstructured, semi-structured, or structured data at scale. They are more flexible and can handle a wide variety of data types.                  
                   
 
