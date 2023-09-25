@@ -1,3 +1,4 @@
+## Data engineer.
 1. Can you explain the ETL process and its importance in data engineering?
 2. What is the difference between a data warehouse and a data lake?
 3. How do you handle data quality issues in a pipeline?
@@ -14,8 +15,8 @@
 14. Can you discuss the concept of data partitioning in distributed systems?
 15. Describe a time when you had to troubleshoot and resolve a data pipeline failure.
 
-1. Can you explain the ETL process and its importance in data engineering?
-**Extract (E):** In this step, data is extracted from multiple sources, which can include databases, spreadsheets, web services, log files, and more. Extracting data from these sources is crucial because organizations often store data in different formats and locations.
+### Can you explain the ETL process and its importance in data engineering?
+*Extract (E):* In this step, data is extracted from multiple sources, which can include databases, spreadsheets, web services, log files, and more. Extracting data from these sources is crucial because organizations often store data in different formats and locations.
 **Transform (T):** After extraction, data often needs to be cleaned, enriched, and transformed to meet specific requirements. Transformation includes tasks like data cleansing (removing duplicates, handling missing values), data enrichment (adding relevant data), and data formatting (changing data types, aggregating data).
 **Load (L):** Once data is extracted and transformed, it's loaded into a data repository or data warehouse. This is typically a centralized storage system optimized for querying and analysis.
 
